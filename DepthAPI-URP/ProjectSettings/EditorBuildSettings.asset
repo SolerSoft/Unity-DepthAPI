@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Custom/Scenes/ViewPerObjectOcclusion.unity
+    guid: a64d4b489237b5e44b7f6b8eb99a5d23
+  - enabled: 0
     path: Assets/DepthAPISample/Scenes/OcclusionToggler.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/DepthAPISample/Scenes/PerObjectOcclusion.unity
     guid: ec181c541f842fb42aa2f91b455a14c1
-  - enabled: 1
+  - enabled: 0
     path: Assets/DepthAPISample/Scenes/SceneAPIPlacement.unity
     guid: b35206816de80c64f89d3f882957a0a8
   m_configObjects:
